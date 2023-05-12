@@ -6,5 +6,5 @@ module.exports = {
     title: `sinsenvone`,
     siteUrl: `https://www.yourdomain.tld`,
   },
-  plugins: [],
+  plugins: ['gatsby-plugin-postcss',],
 }

@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=JetBrains+Mono:wght@400;700&family=Numans&family=Scheherazade+New&display=swap');
+
+
+html, body {
+    font-family: 'Scheherazade New', sans-serif;
+}
+
+h1 {
+    font-family: 'Numans', sans-serif;
+}
